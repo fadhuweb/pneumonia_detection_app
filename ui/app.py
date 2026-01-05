@@ -153,10 +153,3 @@ if file:
 
 else:
     st.info("👆 Upload a chest X-ray image to get started")
-
-# Footer
-st.markdown("---")
-st.markdown(
-    "<p style='text-align: center; color: #6c757d;'>Powered by Deep Learning • VGG16 Transfer Learning</p>",
-    unsafe_allow_html=True
-)
