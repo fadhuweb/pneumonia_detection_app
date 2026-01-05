@@ -34,18 +34,7 @@ A deep learning application for detecting pneumonia from chest X-ray images. Bui
 ### Running the App
 ```bash
 streamlit run ui/app.py
-```
 
-## Deployment to Streamlit Cloud 🚀
-
-This app is ready for one-click deployment:
-1. Push this code to your GitHub.
-2. Go to [share.streamlit.io](https://share.streamlit.io).
-3. Connect your GitHub account.
-4. Select this repository and set the main file path to `ui/app.py`.
-5. Click **Deploy!**
-
----
 
 ## Technical Details
 - **Model:** VGG16 based Transfer Learning model.
