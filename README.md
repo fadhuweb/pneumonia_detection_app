@@ -1,6 +1,6 @@
-# Pneumonia Detection Standalone App 🏥
+# Pneumonia Detection App
 
-A simplified, single-purpose deep learning application for detecting pneumonia from chest X-ray images. Built with Streamlit and TensorFlow (VGG16 Transfer Learning).
+A deep learning application for detecting pneumonia from chest X-ray images. Built with Streamlit and TensorFlow (VGG16 Transfer Learning).
 
 ## Key Features
 - **Clean UI:** Single-page interface focused on image upload and analysis.
